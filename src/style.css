@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  scroll-behavior: smooth;
+  font-family: "Press Start 2P", sans-serif;
+}
+
+.rgb {
+  background-color: rgba(0, 0, 0, 0.5);
+}
